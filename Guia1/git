@@ -1,0 +1,5 @@
+git config --global user.name Yesid078ean
+git config --global user.email yalarcon78@universidadean.edu.co
+git config --list
+user.name=Yesid078ean
+user.email=yalarcon78@universidadean.edu.co
